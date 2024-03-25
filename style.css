@@ -1,5 +1,7 @@
 body {
   background-color: aliceblue;
   text-align: center;
+  padding: 2em;
+border:darkblue dotted 8px;
 
 }
