@@ -4,6 +4,7 @@ body {
   padding: 2em;
   margin-top: 2em;
 border:darkblue dotted 8px;
-font-variant: small-caps;
-
+font-variant: small-caps; 
+background-image: url("record.jpg");
+color: whitesmoke;
 }
